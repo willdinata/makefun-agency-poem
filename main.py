@@ -9,7 +9,7 @@ POEM = (
     "I lift it from the bench\n"
     "and add it to my ring.\n"
     "All day it knocks\n"
-    "against the key I use."
+    "against my house key."
 )
 
 if not 1 <= len(POEM) <= 1000 or not POEM.strip():
